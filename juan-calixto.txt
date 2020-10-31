@@ -3,7 +3,7 @@ Link to codepen project:
 https://codepen.io/juancalixto/pen/bGevxxB?editors=1100
 
 
- Questions:
+Questions:
 
 1. What is Semantic HTML? 
 
